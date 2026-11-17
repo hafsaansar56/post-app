@@ -1,0 +1,27 @@
+.bgcolor, .swal2-confirm{
+    background-color: #ef9a9a;
+}
+.button{
+    background-color: white;
+    border: #ee7979;
+}
+.button:hover{
+    background-color: white;
+}
+.postbtn:hover, .swal2-confirm:hover{
+    background-color: #ef9a9a;
+    border: #ef9a9a;
+}
+.card{
+    background-color: #e57373;
+}
+.postcard{
+    background-color: white;
+}
+.swal2-popup{
+    background-color: #f3bebe;
+    color: white;
+}
+.editbtn:hover{
+background-color: #ef9a9a;
+}
