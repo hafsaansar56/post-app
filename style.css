@@ -1,3 +1,8 @@
+body{
+    background-size: cover;
+   background-repeat: no-repeat;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_pFw6jEOwah4mboDhGM6UzwHNWAmWYPMcng9j84FCgw&s=10);
+}  
 .bgcolor, .swal2-confirm{
     background-color: #ef9a9a;
 }
